@@ -37,7 +37,7 @@ const Skills = () => {
     <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 py-8">
       <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
         <img className="w-20 mx-auto mt-4 mb-2" src={dsa} alt="HTML icon" />
-        <p className="text-lg">Data Structures and Algorithm</p>
+        <p className="text-lg">DATA STRUCTURES AND ALGORITHM</p>
       </div>
       <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
         <img className="w-20 mx-auto mt-4 mb-2" src={JavaScript} alt="HTML icon" />
@@ -117,11 +117,11 @@ const Skills = () => {
       </div>
       <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
       <img className="w-20 mx-auto mt-4 mb-2" src={authh} alt="HTML icon" />
-        <p className="text-lg">Authentication and Authorization</p>
+        <p className="text-lg">AUTHENTICATION AND AUTHORIZATION</p>
       </div>
       <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
       <img className="w-20 mx-auto mt-4 mb-2" src={oauth} alt="HTML icon" />
-        <p className="text-lg">oAuth</p>
+        <p className="text-lg">OAUTH</p>
       </div>
       <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
       <img className="w-20 mx-auto mt-4 mb-2" src={jwt} alt="HTML icon" />
